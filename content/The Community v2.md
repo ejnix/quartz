@@ -1,8 +1,18 @@
+---
+title: "The Community v2"
+---
+
+
+This is a growing repository of ideas and information about creating a society that works for all of us and takes as many aspects of wellbeing into account as possible: mental, social, economic, environmental, et cetera.
+
+
+
+
 # Financial
 ## Trusts
 ## Infinite Banking
-## DAO
-## LLC
+## DAOs
+## LLCs
 ## Tax Write Offs
 
 # Business
@@ -11,8 +21,8 @@
 ## Buy Businesses and Convert them to Worker's Co-ops
 
 # Social
-## Co-Working Space
-## Community Centers
+## [[Co-Working Spaces]]
+## [[Community Centers]]
 
 # Energy
 ## Microgrids
