@@ -1,9 +1,10 @@
 ---
 title: "The Community v2"
+toc: FALSE
 ---
 
 
-This is a growing repository of ideas and information about creating a society that works for all of us and takes as many aspects of wellbeing into account as possible: mental, social, economic, environmental, et cetera.
+This is a growing repository of ideas and information about how you can fill the rift our isolationist culture tends to leave us with, and build a community that works for all of its members, taking as many aspects of wellbeing into account as possible: mental, social, economic, environmental, et cetera.
 
 
 
